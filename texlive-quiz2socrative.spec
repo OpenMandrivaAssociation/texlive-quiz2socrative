@@ -1,6 +1,6 @@
 Name:		texlive-quiz2socrative
 Version:	52276
-Release:	1
+Release:	2
 Summary:	Prepare questions for socrative quizzes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quiz2socrative
