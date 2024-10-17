@@ -3,7 +3,7 @@ Version:	52276
 Release:	2
 Summary:	Prepare questions for socrative quizzes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quiz2socrative
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/quiz2socrative
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quiz2socrative.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/quiz2socrative.doc.r%{version}.tar.xz
